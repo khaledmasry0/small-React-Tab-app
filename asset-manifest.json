@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/small-React-Tab-app/static/css/main.b0300d91.chunk.css",
+    "main.js": "/small-React-Tab-app/static/js/main.20740263.chunk.js",
+    "main.js.map": "/small-React-Tab-app/static/js/main.20740263.chunk.js.map",
+    "runtime-main.js": "/small-React-Tab-app/static/js/runtime-main.bd947826.js",
+    "runtime-main.js.map": "/small-React-Tab-app/static/js/runtime-main.bd947826.js.map",
+    "static/js/2.ab7da454.chunk.js": "/small-React-Tab-app/static/js/2.ab7da454.chunk.js",
+    "static/js/2.ab7da454.chunk.js.map": "/small-React-Tab-app/static/js/2.ab7da454.chunk.js.map",
+    "index.html": "/small-React-Tab-app/index.html",
+    "static/css/main.b0300d91.chunk.css.map": "/small-React-Tab-app/static/css/main.b0300d91.chunk.css.map",
+    "static/js/2.ab7da454.chunk.js.LICENSE.txt": "/small-React-Tab-app/static/js/2.ab7da454.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd947826.js",
+    "static/js/2.ab7da454.chunk.js",
+    "static/css/main.b0300d91.chunk.css",
+    "static/js/main.20740263.chunk.js"
+  ]
+}
